@@ -1,0 +1,13 @@
+C:\Users\Kuchu\source\repos\Peergrade\Peergrade\bin\Debug\netcoreapp3.1\Peergrade.exe
+C:\Users\Kuchu\source\repos\Peergrade\Peergrade\bin\Debug\netcoreapp3.1\Peergrade.deps.json
+C:\Users\Kuchu\source\repos\Peergrade\Peergrade\bin\Debug\netcoreapp3.1\Peergrade.runtimeconfig.json
+C:\Users\Kuchu\source\repos\Peergrade\Peergrade\bin\Debug\netcoreapp3.1\Peergrade.runtimeconfig.dev.json
+C:\Users\Kuchu\source\repos\Peergrade\Peergrade\bin\Debug\netcoreapp3.1\Peergrade.dll
+C:\Users\Kuchu\source\repos\Peergrade\Peergrade\bin\Debug\netcoreapp3.1\Peergrade.pdb
+C:\Users\Kuchu\source\repos\Peergrade\Peergrade\obj\Debug\netcoreapp3.1\Peergrade.csprojAssemblyReference.cache
+C:\Users\Kuchu\source\repos\Peergrade\Peergrade\obj\Debug\netcoreapp3.1\Peergrade.csproj.CoreCompileInputs.cache
+C:\Users\Kuchu\source\repos\Peergrade\Peergrade\obj\Debug\netcoreapp3.1\Peergrade.AssemblyInfoInputs.cache
+C:\Users\Kuchu\source\repos\Peergrade\Peergrade\obj\Debug\netcoreapp3.1\Peergrade.AssemblyInfo.cs
+C:\Users\Kuchu\source\repos\Peergrade\Peergrade\obj\Debug\netcoreapp3.1\Peergrade.dll
+C:\Users\Kuchu\source\repos\Peergrade\Peergrade\obj\Debug\netcoreapp3.1\Peergrade.pdb
+C:\Users\Kuchu\source\repos\Peergrade\Peergrade\obj\Debug\netcoreapp3.1\Peergrade.genruntimeconfig.cache
